@@ -1,2 +1,1 @@
-# prepcourse-henry1
-repositorio de prueba modulo 2 henryprepcourse
+este proyecto es una prueba de como creear y clonar repositorio de gitbush
